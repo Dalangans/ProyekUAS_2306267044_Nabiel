@@ -5,8 +5,8 @@
 Regresi Linier Metode Kuadrat Terkecil untuk Analisis Data Eksperimental
 
 ## Nama & NPM
-**Nama:** Muhammad Pavel  
-**NPM:** 2306242363
+**Nama:** Nabiel Harits Utomo  
+**NPM:** 2306267044
 
 ## Deskripsi Program
 Program ini mengimplementasikan metode regresi linier menggunakan teknik kuadrat terkecil (least squares) untuk mencari hubungan linier antara dua variabel berdasarkan data eksperimen yang diberikan. Pengguna dapat memasukkan data pasangan (x, y) dan program akan menghitung persamaan regresi linier terbaik dalam bentuk `y = a0 + a1*x`. Selain itu, program juga menampilkan koefisien determinasi (r^2) sebagai ukuran kualitas model regresi.
