@@ -26,6 +26,7 @@ Program ini sangat berguna untuk analisis data di bidang teknik, sains, dan ekon
 - Program sudah dilengkapi dengan komentar untuk memudahkan pemahaman setiap langkah proses.
 - Source code dapat dikembangkan lebih lanjut untuk aplikasi yang lebih kompleks atau dataset yang lebih besar.
 
+```c
 #include <stdio.h>
 #include <math.h>
 
@@ -119,3 +120,4 @@ int main() {
     return 0;
 }
 
+```
